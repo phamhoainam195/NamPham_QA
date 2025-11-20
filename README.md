@@ -1,2 +1,8 @@
-# NamPham_QA
-QA Automation Assignment: Test Homepage, Sign Up, and Sign In on nopCommerce using Playwright (POM, faker, HTML report).
+# QA Automation Assignment - Playwright Python
+
+Run:
+```
+pip install -r requirements.txt
+playwright install
+pytest -s
+```
